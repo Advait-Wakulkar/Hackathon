@@ -1,0 +1,33 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# Database
+pymongo
+motor  # Async MongoDB driver for FastAPI
+
+# AI/ML
+numpy
+pandas
+scikit-learn
+opencv-python
+pillow
+
+# For generative AI
+openai
+
+# Real-time
+websockets
+asyncio
+
+# Data validation
+pydantic
+pydantic-settings
+
+# Scheduling
+apscheduler
+
+# CORS for frontend connection
+fastapi-cors
